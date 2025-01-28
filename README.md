@@ -1,5 +1,3 @@
-Hello!
-
 Core Functionality of the Shell
 
 1. Interactive Command Handling:
